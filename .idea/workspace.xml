@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fba442e4-ce25-4438-ac46-49f924e11f93" name="Default Changelist" comment="" />
+    <list default="true" id="fba442e4-ce25-4438-ac46-49f924e11f93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -134,7 +142,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
   <component name="RunManager">
     <configuration name="docker-compose.yml.nginx: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
@@ -181,6 +196,9 @@
       <workItem from="1578645502353" duration="1603000" />
       <workItem from="1578647667039" duration="2198000" />
       <workItem from="1578650565780" duration="3863000" />
+      <workItem from="1578717597574" duration="1568000" />
+      <workItem from="1579246498190" duration="2413000" />
+      <workItem from="1579249938757" duration="9000" />
     </task>
     <servers />
   </component>
@@ -188,13 +206,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="232" y="152" key="#Deployment" timestamp="1578718787025">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="152" key="#Deployment/0.0.1280.984@0.0.1280.984" timestamp="1578718787025" />
+    <state x="232" y="152" key="#Options" timestamp="1578717724681">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="152" key="#Options/0.0.1280.984@0.0.1280.984" timestamp="1578717724681" />
     <state x="686" y="218" key="#docker-compose.yml.nginx:_Compose_Deployment" timestamp="1578646247779">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="686" y="218" key="#docker-compose.yml.nginx:_Compose_Deployment/0.0.1280.984@0.0.1280.984" timestamp="1578646247779" />
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1578650600189">
+    <state x="143" y="122" key="SettingsEditor" timestamp="1578718281992">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1578650600189" />
+    <state x="143" y="122" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1578718281992" />
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1579249947580">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1579249947580" />
+    <state x="543" y="226" width="335" height="530" key="ftp.server.browser" timestamp="1578718043540">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="543" y="226" width="335" height="530" key="ftp.server.browser/0.0.1280.984@0.0.1280.984" timestamp="1578718043540" />
   </component>
 </project>
