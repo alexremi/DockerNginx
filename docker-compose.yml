@@ -6,17 +6,17 @@ services:
       context: .
       dockerfile: docker/Nginx.Dockerfile
     ports:
-      - 8098:80
+      - 8099:80
     links:
       - fpm
     volumes:
-      - ./:/var/www/html/DockerNginx
+      - ./:/var/www/html/docker
   fpm:
     build:
       context: .
       dockerfile: docker/Fpm.Dockerfile
     volumes:
-      - ./:/var/www/html/DockerNginx
+      - ./:/var/www/html/docker
     links:
       - mysql
   mysql:
